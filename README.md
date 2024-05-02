@@ -13,5 +13,5 @@ I developed a Note-App using TypeScript features. You will be able to add hundre
 
   <h3>Project Gif</h3>
 
-  
-![Screen Recording 2024-05-01 at 08 30 59 PM](https://github.com/nazanyilmaz/NoteApp-TS/assets/147782488/7075175b-f158-4731-972f-0afef82793ad)
+
+![ ](https://github.com/nazanyilmaz/NoteApp-TS/assets/147782488/fa1e682e-b567-4a12-8834-7768e032402c)
